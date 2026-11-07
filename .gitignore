@@ -1,0 +1,17 @@
+# Виртуальное окружение
+venv/
+env/
+
+# Секреты
+.env
+backend/.env
+
+# Кеш Python
+__pycache__/
+*.pyc
+
+# База данных
+# schedule.db
+
+# Настройки VS Code
+.vscode/
